@@ -73,3 +73,11 @@ Apache Log4j 2 est une mise à niveau vers Log4j qui fournit des améliorations 
 </Configuration>
 ```
 - You can use log4js2 with:
+
+1-  Log4J 2 Configuration: Using Properties File
+
+2- Log4J 2 Configuration: Using XML
+
+3-  Log4J 2 Configuration: Using JSON
+
+4- Log4J 2 Configuration: Using YAML
